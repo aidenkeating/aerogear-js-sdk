@@ -1,6 +1,6 @@
 {
   "name": "AeroGearServicesWeb",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.2",
   "private": true,
   "description": "AeroGear Services Web/Cordova SDK mono repository",
   "main": "index.js",
